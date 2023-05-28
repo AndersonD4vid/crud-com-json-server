@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "name": "Web Site Venda de carros",
+      "orcamento": "25000",
+      "categoria": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "custo": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Mobile Filmes",
+      "orcamento": "50000",
+      "categoria": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "custo": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Crud com firebase",
+      "orcamento": "1400",
+      "categoria": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "custo": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Backend"
+    }
+  ]
+}
